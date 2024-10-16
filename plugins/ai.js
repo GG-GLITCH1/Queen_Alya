@@ -28,7 +28,7 @@ smd(
       await m.send("Alya is thinking 🤔");
 
       // Define the API URL
-      const apiUrl = `https://api-gifted-tech.onrender.com/api/ai/gpt4?q=${encodeURIComponent(query)}&apikey=gifteddevskk`;
+      const apiUrl = `https://giftedapis.us.kg/api/ai/gpt4?q=${encodeURIComponent(query)}&apikey=gifted`;
       const response = await fetch(apiUrl);
 
       if (!response.ok) {
@@ -318,7 +318,7 @@ smd(
       await m.send("Alya is thinking 🤔");
 
       // Define the new API URL
-      const apiUrl = `https://api-gifted-tech.onrender.com/api/ai/geminiai?q=${encodeURIComponent(query)}&apikey=gifteddevskk`;
+      const apiUrl = `https://giftedapis.us.kg/api/ai/geminiai?q=${encodeURIComponent(query)}&apikey=gifted`;
       const response = await fetch(apiUrl);
 
       if (!response.ok) {
