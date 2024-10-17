@@ -315,10 +315,10 @@ smd(
       }
 
       // Send a loading message
-      await m.send("Alya is thinking 🤔");
+      await m.send("G.G'S-bot is thinking 🤔");
 
       // Define the new API URL
-      const apiUrl = `https://giftedapis.us.kg/api/ai/geminiai?q=${encodeURIComponent(query)}&apikey=gifted`;
+      const apiUrl = `https://itzpire.com/ai/gemini-ai?q=${encodeURIComponent(query)}`;
       const response = await fetch(apiUrl);
 
       if (!response.ok) {
