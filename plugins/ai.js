@@ -315,10 +315,10 @@ smd(
       }
 
       // Send a loading message
-      await m.send("G.G'S-bot is thinking 🤔");
+      await m.send("`king°•g•g`-bot is accessing Gemini api ");
 
       // Define the new API URL
-      const apiUrl = `https://itzpire.com/ai/gemini-ai?q=${encodeURIComponent(query)}`;
+      const apiUrl = `https://itzpire.com/ai/gemini-ai?model=Precise&q=${encodeURIComponent(query)}`;
       const response = await fetch(apiUrl);
 
       if (!response.ok) {
@@ -333,7 +333,7 @@ smd(
       // Get the result from the API response
       const data = await response.json();
       const resultText = data.result; // Extract the text from the result part
-      const message = `*Response:* \n\n${resultText}`;
+      const message = `*results from Gemini:* \n\n${resultText}`;
 
       // Send the final response
       await m.send(message);
