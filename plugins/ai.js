@@ -25,10 +25,10 @@ smd(
       }
 
       // Send a loading message
-      await m.send("Alya is thinking 🤔");
+      await m.send("`king g.g bot is accessing gpt api💨`");
 
       // Define the API URL
-      const apiUrl = `https://giftedapis.us.kg/api/ai/gpt4?q=${encodeURIComponent(query)}&apikey=gifted`;
+      const apiUrl = `https://api.maher-zubair.xyz/ai/chatgpt?apikey=df42ed683063bdffec&prompt=${encodeURIComponent(query)}`;
       const response = await fetch(apiUrl);
 
       if (!response.ok) {
