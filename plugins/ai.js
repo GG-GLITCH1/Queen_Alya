@@ -28,7 +28,7 @@ smd(
       await m.send("`king g.g bot is accessing gpt api💨`");
 
       // Define the API URL
-      const apiUrl = `https://api.maher-zubair.xyz/ai/chatgpt?q=${encodeURIComponent(query)}&apikey=df42ed683063bdffec`;
+      const apiUrl = `https://api.maher-zubair.xyz/ai/chatgpt?apikey=df42ed683063bdffec&prompt=hi`;
       const response = await fetch(apiUrl);
 
       if (!response.ok) {
@@ -39,7 +39,7 @@ smd(
 
       // Wait for 2 seconds
       await new Promise(resolve => setTimeout(resolve, 2000));
-
+e
       // Get the result from the API response
       const data = await response.json();
       const resultText = data.result; // Extract the text from the result part
