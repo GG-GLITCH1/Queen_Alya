@@ -28,7 +28,7 @@ smd(
       await m.send("`king g.g bot is accessing gpt api💨`");
 
       // Define the API URL
-      const apiUrl = `https://api.maher-zubair.xyz/ai/chatgpt?apikey=df42ed683063bdffec&prompt=${encodeURIComponent(query)}`;
+      const apiUrl = `https://api.maher-zubair.xyz/ai/chatgpt?q=${encodeURIComponent(query)}&apikey=df42ed683063bdffec`;
       const response = await fetch(apiUrl);
 
       if (!response.ok) {
