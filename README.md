@@ -1,12 +1,12 @@
- # QUEEN_ALYA
+ # GG hackers md 👑☠️
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ QUEEN_+ALYA★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+STAR+KING." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ QUEEN_+ALYA★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+KING+GG👑☠️." alt="Typing SVG" /></a>
  </p>
 <p align="center">
 <img src="https://telegra.ph/file/b065f0f673cae5452c358.jpg"/> 
-<p align="center"><img src="https://profile-counter.glitch.me/{STAR-KING0}/count.svg" alt="STAR-KING0 :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{KING GG 👑☠️}/count.svg" alt="STAR-KING0 :: Visitor's Count" /></p>
 <p align="center">
 <a href="https://github.com/STAR-KING0/followers"><img title="Followers" src="https://img.shields.io/github/followers/STAR-KING0?color=red&style=flat-square"></a>
 <a href="https://github.com/STAR-KING0/Queen_Alya/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/STAR-KING0/QUEEN_ALYA?color=blue&style=flat-square"></a>
